@@ -1,5 +1,8 @@
 DBQ（Database Queue）是一个轻量级的基于JDBC的Java消息队列库。以下是详细的使用指南：
 
+最新版本：
+![Maven Central](https://img.shields.io/maven-central/v/io.github.jiangood/dbq)
+
 1. 添加依赖
 Maven
 ```xml
