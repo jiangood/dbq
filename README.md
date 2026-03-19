@@ -17,7 +17,7 @@ Maven
 DBQ需要特定的表结构来存储消息，默认情况会自动建表
 
 ```sql
-CREATE TABLE queue (
+CREATE TABLE dbq_queue (
     id INT PRIMARY KEY AUTO_INCREMENT,
     queue_name VARCHAR(100) NOT NULL,
     message TEXT NOT NULL,
