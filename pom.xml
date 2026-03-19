@@ -9,6 +9,7 @@
     <version>1.0.0</version>
     <packaging>jar</packaging>
     <name>dbq</name>
+    <description>DBQ（Database Queue）是一个轻量级的基于JDBC的Java消息队列库</description>
     <url>https://github.com/jiangood/dbq</url>
     <licenses>
         <license>
